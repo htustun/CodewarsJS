@@ -16,5 +16,3 @@ function isValidWalk(walk) {
     }
     
   }
-
-  console.log(isValidWalk(['n','s','n','s','n','s','n','s','w','e']));

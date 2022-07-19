@@ -8,4 +8,4 @@ function sumTwoSmallestNumbers(numbers) {
     numbersInt.sort((a, b) => a - b);
     return numbersInt[0]+numbersInt[1];
   }
-  console.log(sumTwoSmallestNumbers([3, -1, 0.5, 19, 22]));
+  
